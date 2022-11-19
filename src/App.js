@@ -5,7 +5,7 @@ function App() {
   return (
   <div className="App">
     <div className='container'>
-     Weather App
+    <h1>Weather App</h1> 
      <Weather defaultCity="Kyiv"/>
      <footer>
       This project was codded by <a href="https://my-profile-nd.netlify.app">Nataliia Dolhoruk</a> and it is {" "}
